@@ -51,6 +51,11 @@ I'm a software developer and here are a few things about me:
 - 😄 Pronouns: [He/Him]
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dipec001&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipec001&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipec001&show_icons=true&locale=en" alt="Divine-Chukwu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipec001&" alt="Divine-Chukwu" /></p>
 
 Thanks for visiting my profile! 😃
 
