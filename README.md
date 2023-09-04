@@ -21,11 +21,11 @@
    </br>
    
    
- <div align="center"> 
+<-- <div align="center"> 
   <a href="https://streak-stats.demolab.com?user=dipec001s&theme=radical">
     <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" width=420/>
   </a>
- </div>
+ </div> -->
  
 </br>
 
