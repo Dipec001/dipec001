@@ -50,8 +50,7 @@ I'm a software developer and here are a few things about me:
 - 💬 Let's connect! Feel free to reach out to me.
 - 😄 Pronouns: [He/Him]
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dipec001&show_icons=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipec001&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipec001&show_icons=true&locale=en&layout=compact" alt="Divine-Chukwu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipec001&show_icons=true&locale=en" alt="Divine-Chukwu" /></p>
 
