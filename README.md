@@ -10,10 +10,7 @@
   <a href="https://www.linkedin.com/in/divine-chukwu-63bb04145/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
-   <a href="https://www.instagram.com/code_carol/?igshid=YmMyMTA2M2Y%3D" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a> 
-   <a href="[https://twitter.com/code_carol](https://twitter.com/Dipec_Pascal)" target="_blank">
+   <a href="https://twitter.com/Dipec_Pascal" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a> 
    </div>
