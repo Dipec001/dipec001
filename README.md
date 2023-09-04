@@ -40,3 +40,17 @@
 
 
 </div>
+<br>
+# Hello, World! 👋
+
+I'm a software developer and here are a few things about me:
+
+- 🚀 I'm passionate about coding and learning new technologies.
+- 🌱 I'm currently working on a Todo app to make the world a better place.
+- 💬 Let's connect! Feel free to reach out to me.
+- 😄 Pronouns: [He/Him]
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dipec001&show_icons=true)
+
+Thanks for visiting my profile! 😃
+
