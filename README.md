@@ -50,7 +50,6 @@ I'm a software developer and here are a few things about me:
 - 🚀 I'm passionate about coding and learning new technologies.
 - 🌱 I'm currently working on a Todo app to make the world a better place.
 - 💬 Let's connect! Feel free to reach out to me.
-- 😄 Pronouns: [He/Him]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipec001&show_icons=true&locale=en&layout=compact" alt="Divine-Chukwu" /></p>
 
